@@ -7,6 +7,7 @@ public class Ex100 {
 
         System.out.println("Sorin Gore 2");
         System.out.println("Victor Lungu 2");
+        System.out.println("Ion Schimbator 2");
 
     }
 }
